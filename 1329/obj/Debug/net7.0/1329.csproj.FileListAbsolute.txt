@@ -1,0 +1,15 @@
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/bin/Debug/net7.0/1329
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/bin/Debug/net7.0/1329.deps.json
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/bin/Debug/net7.0/1329.runtimeconfig.json
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/bin/Debug/net7.0/1329.dll
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/bin/Debug/net7.0/1329.pdb
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/1329.csproj.AssemblyReference.cache
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/1329.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/1329.AssemblyInfoInputs.cache
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/1329.AssemblyInfo.cs
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/1329.csproj.CoreCompileInputs.cache
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/1329.dll
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/refint/1329.dll
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/1329.pdb
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/1329.genruntimeconfig.cache
+/Users/aminrahimzadagan/Desktop/Projects/1329/1329/obj/Debug/net7.0/ref/1329.dll
